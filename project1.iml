@@ -13,5 +13,39 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: clojure-complete:0.2.5" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/api:0.8.505" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/autoscaling:770.2.568.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/cloudformation:746.2.533.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/dynamodb:746.2.533.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/ec2:759.2.556.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/endpoints:1.1.11.664" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/iam:811.2.889.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/kms:811.2.834.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/lambda:811.2.865.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/logs:747.2.533.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/resourcegroupstaggingapi:747.2.533.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect.aws/s3:762.2.558.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cognitect/http-client:0.1.106" level="project" />
+    <orderEntry type="library" name="Leiningen: nrepl:0.6.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.async:1.3.610" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.cache:1.0.207" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.memoize:1.0.236" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.specs.alpha:0.2.44" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.codec:0.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.json:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.priority-map:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.xml:0.2.0-alpha6" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/spec.alpha:0.2.176" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.analyzer.jvm:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.analyzer:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.logging:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.reader:1.3.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-client:9.4.36.v20210114" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-http:9.4.36.v20210114" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-io:9.4.36.v20210114" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-util:9.4.36.v20210114" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm:5.2" level="project" />
   </component>
 </module>
